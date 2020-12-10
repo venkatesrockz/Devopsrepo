@@ -5,7 +5,7 @@
 # Check for auto build in Azure.
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
